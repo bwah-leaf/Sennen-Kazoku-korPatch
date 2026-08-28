@@ -6,6 +6,7 @@ Codex를 활용하여 번역 및 프로그램쪽 작업을 하였습니다.
 이미지, 텍스트 검수 등은 사람이 합니다.
 
 > ⚠️ **한국어 패치 베타 배포 (v260829)**
+> 
 > ![image](https://github.com/user-attachments/assets/d81d32c4-de6b-4119-8144-49d74cc54a19)
 > 
 
